@@ -1,2 +1,2 @@
 # TravelPal
- hej
+ A travel booking app
